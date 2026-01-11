@@ -64,13 +64,6 @@ See [Contributing Guidelines](https://github.com/Spikeysanju/Wiggles/blob/main/C
 
 <br>
 
-## Contact 📩
-Have an idea to improve this or got any Question? Let's connect 👇
-
-Drop a mail to:- spikeysanju98@gmail.com
-
-<br>
-
 ## Donation 💰
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
