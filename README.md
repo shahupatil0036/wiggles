@@ -1,7 +1,8 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/Wiggles/blob/main/art/GITHUB-COVER.png?raw=true)
+![Wiggles Cover](art/GITHUB-COVER.png)
+
 
 # Wiggles 🐶
-Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for Android Dev Challenge *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for Android Dev Challenge *Made with love ❤️ by [shahupatil](https://github.com/Spikeysanju)*
 
 <br />
 
